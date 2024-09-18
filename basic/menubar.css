@@ -1,0 +1,43 @@
+.icon{
+    width:70px;
+    height: 400x;
+    background-color:cyan;
+    border:04px solid red;
+    overflow: auto;
+    
+}
+.icon a{
+    float:left;
+    padding:10px;
+    font-size: 50px;
+    color:darkgreen;
+    width:50px;
+
+}
+.icon       :hover{
+    background-color: rgb(79, 227, 81);
+}
+
+
+
+
+.menu{
+    
+    width:30%;
+    height: 400x;
+    background-color:rgb(210, 99, 171);
+    border:04px solid rgb(187, 255, 0);
+    overflow: auto;
+    
+}
+.menu a{
+    float:left;
+    padding:10px;
+    font-size: 50px;
+    color:darkgreen;
+    width:50px;
+
+}
+.menu       :hover{
+    background-color: darkcyan;
+}

@@ -1,0 +1,49 @@
+.col1{
+    background-color:aqua;
+    height: 600px;
+    padding: 100px;
+    padding-right:100px;
+    align-items: center;
+    
+    
+    
+    
+    
+}
+.col2{
+    background-color:aqua;
+    height: 600px;
+   
+
+
+}
+img{
+    height: 600px;
+    width:625px;
+}
+
+.in{
+    margin-left: 30vh;
+    padding: 5px;
+}
+.out{
+    margin-left:40px;
+    padding: 50px;
+    padding-top: 20px;
+}
+.std{
+    margin-bottom:5px;
+    margin-left:60px;
+}
+.a{
+    padding: 10px;
+
+}
+.b{
+    padding: 10px;
+
+}
+.c{
+    padding: 10px;
+
+}

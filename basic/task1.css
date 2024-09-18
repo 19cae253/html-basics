@@ -1,0 +1,28 @@
+.hi{
+    height:200px;
+    width:200px;
+    background-color:chartreuse;
+    border:5px solid black;
+    margin-left: 15vh;
+    margin-top: 15vh;
+    color: darkmagenta;
+}
+.bye{
+    height:200px;
+    width:200px;
+    background-color:rgb(148, 117, 210);
+    border:5px solid black;
+    margin-left: 65vh;
+    margin-top: -33vh;
+    color:darkgreen;
+}
+.tc{
+
+        height:200px;
+        width:200px;
+        background-color:rgb(219, 230, 67);
+        border:5px solid black;
+        margin-left: 115vh;
+        margin-top:-33vh;
+        color:crimson;
+    }

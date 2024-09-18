@@ -1,0 +1,31 @@
+.main{
+    height: 300px;
+    width: 300px;
+    background-color: darkcyan;
+    border: 3px solid black;
+    margin-left: 90vh;
+    margin-top: 25vh;
+    
+}
+.in{
+    padding: 10vh;
+}
+.input label{
+    font-size: 20px;
+    color: cyan ;
+  
+}
+
+.input input{
+    margin-top: 5px;
+    display: block;
+    
+}
+
+.button button{
+  background-color: blueviolet;
+  margin-top: 10px;
+  margin-left: 50px;
+  padding: 10px;
+  border-radius: 10px;
+}
